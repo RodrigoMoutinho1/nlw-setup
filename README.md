@@ -43,4 +43,4 @@ Você pode visualizar o layout do projeto através [DAQUI](https://www.figma.com
 
 Esse projeto esta sob licença MIT.
 
-Feito com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)!
+Feito com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
